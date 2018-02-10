@@ -1,0 +1,16 @@
+body{
+  background-color:#03A9F4;
+}
+.icon{
+  margin: 8% 0% 0% 42%;
+}
+.url{
+  margin-left: -9%;
+  color: white;
+  margin-top: 3%;
+}
+h1,h2{color:white}
+.center{
+  text-align: center;
+  margin:18%;
+}
